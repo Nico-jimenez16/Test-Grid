@@ -1,0 +1,11 @@
+npm create vite@latest
+pnpm i
+npm install @mui/material @emotion/react @emotion/styled
+pnpm i --save styled-components
+pnpm i -D @types/node
+install @mui/x-data-grid
+install @types/x-data-grid
+
+
+
+ultimo minuto: 2:08:38
